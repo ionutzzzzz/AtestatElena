@@ -1,8 +1,0 @@
-categorie: animatie
-data lansarii, regizori: 7 ianuarie 2011, Nathan Greno, Byron Howard
-personaje principale: Rapunzel, Flynn Rider, mama Gothel
-rezumat:
-Rapunzel cu părul lung magic și-a petrecut întreaga viață într-un turn, dar acum că un hoț fugar a dat peste ea, ea este pe cale să descopere lumea pentru prima dată și cine este cu adevărat.
-trailer:
-https://www.youtube.com/watch?v=EdbqNzi_KF4
-NP

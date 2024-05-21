@@ -1,7 +1,0 @@
-categorie: comedie
-data lansarii, regizor: 5 iunie 2009,Todd Phillips
-actori principali: Bradley Cooper, Zach Galifianakis,Justin Bartha, Ed Helms
-rezumat:
-Trei prieteni se trezesc de la o petrecere a burlacilor din Las Vegas, fără amintiri despre noaptea anterioară și despre burlac dispărut. Ei fac drum prin oraș pentru a-și găsi prietenul înainte de nunta lui.
-trailer: 
-https://www.youtube.com/watch?v=96TelFMZwHc

@@ -18,6 +18,8 @@ namespace NEFLI
             InitializeComponent();
         }
 
+        internal static string Link = string.Empty;
+
         private void Form4_Load(object sender, EventArgs e)
         {
             this.Text = $"Nefli ({Form3.Movie})";
@@ -31,7 +33,9 @@ namespace NEFLI
         private void label4_Click(object sender, EventArgs e)
         {
             Movie film = Movie.Select(Form3.Movie);
-            System.Diagnostics.Process.Start(film.Link);
+            Link = film.Link;
+            Form6 f = new Form6();
+            f.Show();
         }
     }
 }

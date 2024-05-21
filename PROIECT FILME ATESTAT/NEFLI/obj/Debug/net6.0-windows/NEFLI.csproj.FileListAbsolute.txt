@@ -75,3 +75,13 @@ C:\Users\User\Desktop\NEFLI\obj\Debug\net6.0-windows\ref\NEFLI.dll
 \\VBOXSVR\Windows\PROIECT FILME ATESTAT\NEFLI\obj\Debug\net6.0-windows\NEFLI.csproj.AssemblyReference.cache
 \\VBOXSVR\Windows\PROIECT FILME ATESTAT\NEFLI\obj\Debug\net6.0-windows\NEFLI.csproj.Up2Date
 \\VBOXSVR\Windows\PROIECT FILME ATESTAT\NEFLI\obj\Debug\net6.0-windows\NEFLI.Form5.resources
+\\VBOXSVR\Windows\PROIECT FILME ATESTAT\NEFLI\bin\Debug\net6.0-windows\Interop.WMPLib.dll
+\\VBOXSVR\Windows\PROIECT FILME ATESTAT\NEFLI\bin\Debug\net6.0-windows\Interop.SHDocVw.dll
+\\VBOXSVR\Windows\PROIECT FILME ATESTAT\NEFLI\bin\Debug\net6.0-windows\AxInterop.WMPLib.dll
+\\VBOXSVR\Windows\PROIECT FILME ATESTAT\NEFLI\bin\Debug\net6.0-windows\AxInterop.SHDocVw.dll
+\\VBOXSVR\Windows\PROIECT FILME ATESTAT\NEFLI\obj\Debug\net6.0-windows\Interop.WMPLib.dll
+\\VBOXSVR\Windows\PROIECT FILME ATESTAT\NEFLI\obj\Debug\net6.0-windows\Interop.SHDocVw.dll
+\\VBOXSVR\Windows\PROIECT FILME ATESTAT\NEFLI\obj\Debug\net6.0-windows\AxInterop.WMPLib.dll
+\\VBOXSVR\Windows\PROIECT FILME ATESTAT\NEFLI\obj\Debug\net6.0-windows\AxInterop.SHDocVw.dll
+\\VBOXSVR\Windows\PROIECT FILME ATESTAT\NEFLI\obj\Debug\net6.0-windows\NEFLI.csproj.ResolveComReference.cache
+\\VBOXSVR\Windows\PROIECT FILME ATESTAT\NEFLI\obj\Debug\net6.0-windows\NEFLI.Form6.resources

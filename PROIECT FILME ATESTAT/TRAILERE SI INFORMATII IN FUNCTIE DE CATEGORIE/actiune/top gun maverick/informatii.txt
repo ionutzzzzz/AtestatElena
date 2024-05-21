@@ -1,8 +1,0 @@
-top gun 2
-categorie: actiune
-data lansarii, regizor: 27 mai 2022, Joseph Kosinski
-personaje: Pete "Maverick" Mitchell, Bradley Bradshaw, Charlotte Blackwood, Penny Benjamin
-rezumat: 
-Scurt rezumat: Top Gun: Maverick urmărește povestea lui Pete "Maverick" Mitchell, care se confruntă cu provocări atât personale, cât și profesionale, în timp ce încearcă să își păstreze locul ca unul dintre cei mai buni piloți de avioane de luptă din lume. El se întâlnește cu Bradley Bradshaw, fiul fostului său coechipier și prieten Nick "Goose" Bradshaw, care a murit într-un accident de avion în filmul original. Maverick și Bradley trebuie să învețe să colaboreze, iar acest lucru duce la o serie de evenimente dramatice, de la misiuni periculoase în aer la întâlniri cu femei puternice și independente.
-trailer:
-https://www.youtube.com/watch?v=giXco2jaZ_4&ab_channel=ParamountPictures

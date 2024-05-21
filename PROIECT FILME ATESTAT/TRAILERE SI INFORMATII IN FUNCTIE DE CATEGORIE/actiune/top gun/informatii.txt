@@ -1,8 +1,0 @@
-top gun
-categorie: actiune
-data lansarii, regizor: 16 mai 1986,Tony Scott 
-personaje: Pete "Maverick" Mitchell,Tom "Iceman" Kazansky, Charlotte "Charlie" Blackwood, Nick "Goose" Bradshaw 
-rezumat:
-Pete "Maverick" Mitchell este un pilot de vânătoare talentat, care este ales să participe la programul de pregătire de elită al Forțelor Aeriene americane, numit Top Gun. Acolo, el se confruntă cu rivalități și concurență acerbă din partea altor piloți talentați și încearcă să își găsească locul în această comunitate elitistă. Pe parcurs, Maverick își dezvoltă abilitățile și se confruntă cu provocări personale, precum și cu pierderi în viața sa. În cele din urmă, el trebuie să își depășească limitele pentru a-și dovedi calitățile și pentru a-și face datoria în timpul unei misiuni de urgență.
-trailer:
-https://www.youtube.com/watch?v=xa_z57UatDY&ab_channel=RottenTomatoesClassicTrailers

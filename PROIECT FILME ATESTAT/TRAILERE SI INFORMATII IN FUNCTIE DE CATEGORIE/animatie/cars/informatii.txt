@@ -1,7 +1,0 @@
-Cars
-categorie: animatie
-data lansarii, regizor: 9 iunie 2006 ,John Lasseter
-personaje:Lightning McQueen, Mater, Sally, Chick Hicks
-rezumat: 
-În drum spre cea mai mare cursă a vieții sale, o mașină de curse începătoare rămâne blocată într-un oraș prăpădit și află că câștigarea nu este totul în viață.
-trailer: https://www.youtube.com/watch?v=SbXIj2T-_uk&ab_channel=nickbtube
