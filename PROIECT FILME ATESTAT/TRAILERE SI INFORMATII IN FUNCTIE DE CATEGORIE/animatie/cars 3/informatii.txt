@@ -1,0 +1,7 @@
+cars 3
+categorie: animatie
+data lansarii, regizor: 16 iunie 2017 ,John Lasseter
+personaje:Lightning McQueen,Cruz Ramirez, Jackson Storm, Sterling
+rezumat: 
+Lightning McQueen este înfrânt de un nou rival în competiția Piston Cup și se confruntă cu o serie de accidente devastatoare care îl determină să ia o pauză de la curse și să se concentreze asupra recuperării. În timpul antrenamentului, Lightning McQueen întâlnește o mașină de antrenament tânără și entuziastă numită Cruz Ramirez, care îl ajută să redescopere pasiunea pentru curse și să se pregătească pentru un nou sezon. Împreună, cei doi se luptă împotriva rivalilor și a obstacolelor în încercarea de a obține victoria finală.
+trailer: https://www.youtube.com/watch?v=MOpOQN97b_U&ab_channel=CineFanRO

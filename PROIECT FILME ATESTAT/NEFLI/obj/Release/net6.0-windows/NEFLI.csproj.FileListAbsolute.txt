@@ -1,0 +1,61 @@
+C:\Users\User\Desktop\NEFLI\bin\Release\net6.0-windows\NEFLI.exe
+C:\Users\User\Desktop\NEFLI\bin\Release\net6.0-windows\NEFLI.deps.json
+C:\Users\User\Desktop\NEFLI\bin\Release\net6.0-windows\NEFLI.runtimeconfig.json
+C:\Users\User\Desktop\NEFLI\bin\Release\net6.0-windows\NEFLI.dll
+C:\Users\User\Desktop\NEFLI\bin\Release\net6.0-windows\NEFLI.pdb
+C:\Users\User\Desktop\NEFLI\bin\Release\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\User\Desktop\NEFLI\bin\Release\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\User\Desktop\NEFLI\bin\Release\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\User\Desktop\NEFLI\bin\Release\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\User\Desktop\NEFLI\bin\Release\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\Desktop\NEFLI\bin\Release\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\Desktop\NEFLI\obj\Release\net6.0-windows\NEFLI.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\NEFLI\obj\Release\net6.0-windows\NEFLI.Form1.resources
+C:\Users\User\Desktop\NEFLI\obj\Release\net6.0-windows\NEFLI.Form2.resources
+C:\Users\User\Desktop\NEFLI\obj\Release\net6.0-windows\NEFLI.Form3.resources
+C:\Users\User\Desktop\NEFLI\obj\Release\net6.0-windows\NEFLI.Form4.resources
+C:\Users\User\Desktop\NEFLI\obj\Release\net6.0-windows\NEFLI.Properties.Resources.resources
+C:\Users\User\Desktop\NEFLI\obj\Release\net6.0-windows\NEFLI.csproj.GenerateResource.cache
+C:\Users\User\Desktop\NEFLI\obj\Release\net6.0-windows\NEFLI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\NEFLI\obj\Release\net6.0-windows\NEFLI.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\NEFLI\obj\Release\net6.0-windows\NEFLI.AssemblyInfo.cs
+C:\Users\User\Desktop\NEFLI\obj\Release\net6.0-windows\NEFLI.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\NEFLI\obj\Release\net6.0-windows\NEFLI.csproj.Up2Date
+C:\Users\User\Desktop\NEFLI\obj\Release\net6.0-windows\NEFLI.dll
+C:\Users\User\Desktop\NEFLI\obj\Release\net6.0-windows\refint\NEFLI.dll
+C:\Users\User\Desktop\NEFLI\obj\Release\net6.0-windows\NEFLI.pdb
+C:\Users\User\Desktop\NEFLI\obj\Release\net6.0-windows\NEFLI.genruntimeconfig.cache
+C:\Users\User\Desktop\NEFLI\obj\Release\net6.0-windows\ref\NEFLI.dll
+C:\Users\User\Desktop\NEFLI\bin\Release\net6.0-windows\NEFLI.dll.manifest
+C:\Users\User\Desktop\NEFLI\bin\Release\net6.0-windows\NEFLI.application
+C:\Users\User\Desktop\NEFLI\obj\Release\net6.0-windows\NEFLI.dll.manifest
+C:\Users\User\Desktop\NEFLI\obj\Release\net6.0-windows\NEFLI.application
+\\VBOXSVR\Windows\PROIECT FILME ATESTAT\NEFLI\bin\Release\net6.0-windows\NEFLI.exe
+\\VBOXSVR\Windows\PROIECT FILME ATESTAT\NEFLI\bin\Release\net6.0-windows\NEFLI.deps.json
+\\VBOXSVR\Windows\PROIECT FILME ATESTAT\NEFLI\bin\Release\net6.0-windows\NEFLI.runtimeconfig.json
+\\VBOXSVR\Windows\PROIECT FILME ATESTAT\NEFLI\bin\Release\net6.0-windows\NEFLI.dll
+\\VBOXSVR\Windows\PROIECT FILME ATESTAT\NEFLI\bin\Release\net6.0-windows\NEFLI.pdb
+\\VBOXSVR\Windows\PROIECT FILME ATESTAT\NEFLI\bin\Release\net6.0-windows\System.Data.SqlClient.dll
+\\VBOXSVR\Windows\PROIECT FILME ATESTAT\NEFLI\bin\Release\net6.0-windows\runtimes\win-arm64\native\sni.dll
+\\VBOXSVR\Windows\PROIECT FILME ATESTAT\NEFLI\bin\Release\net6.0-windows\runtimes\win-x64\native\sni.dll
+\\VBOXSVR\Windows\PROIECT FILME ATESTAT\NEFLI\bin\Release\net6.0-windows\runtimes\win-x86\native\sni.dll
+\\VBOXSVR\Windows\PROIECT FILME ATESTAT\NEFLI\bin\Release\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+\\VBOXSVR\Windows\PROIECT FILME ATESTAT\NEFLI\bin\Release\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+\\VBOXSVR\Windows\PROIECT FILME ATESTAT\NEFLI\obj\Release\net6.0-windows\NEFLI.csproj.AssemblyReference.cache
+\\VBOXSVR\Windows\PROIECT FILME ATESTAT\NEFLI\obj\Release\net6.0-windows\NEFLI.Form1.resources
+\\VBOXSVR\Windows\PROIECT FILME ATESTAT\NEFLI\obj\Release\net6.0-windows\NEFLI.Form2.resources
+\\VBOXSVR\Windows\PROIECT FILME ATESTAT\NEFLI\obj\Release\net6.0-windows\NEFLI.Form3.resources
+\\VBOXSVR\Windows\PROIECT FILME ATESTAT\NEFLI\obj\Release\net6.0-windows\NEFLI.Form4.resources
+\\VBOXSVR\Windows\PROIECT FILME ATESTAT\NEFLI\obj\Release\net6.0-windows\NEFLI.Properties.Resources.resources
+\\VBOXSVR\Windows\PROIECT FILME ATESTAT\NEFLI\obj\Release\net6.0-windows\NEFLI.csproj.GenerateResource.cache
+\\VBOXSVR\Windows\PROIECT FILME ATESTAT\NEFLI\obj\Release\net6.0-windows\NEFLI.GeneratedMSBuildEditorConfig.editorconfig
+\\VBOXSVR\Windows\PROIECT FILME ATESTAT\NEFLI\obj\Release\net6.0-windows\NEFLI.AssemblyInfoInputs.cache
+\\VBOXSVR\Windows\PROIECT FILME ATESTAT\NEFLI\obj\Release\net6.0-windows\NEFLI.AssemblyInfo.cs
+\\VBOXSVR\Windows\PROIECT FILME ATESTAT\NEFLI\obj\Release\net6.0-windows\NEFLI.csproj.CoreCompileInputs.cache
+\\VBOXSVR\Windows\PROIECT FILME ATESTAT\NEFLI\obj\Release\net6.0-windows\NEFLI.csproj.Up2Date
+\\VBOXSVR\Windows\PROIECT FILME ATESTAT\NEFLI\obj\Release\net6.0-windows\NEFLI.dll
+\\VBOXSVR\Windows\PROIECT FILME ATESTAT\NEFLI\obj\Release\net6.0-windows\refint\NEFLI.dll
+\\VBOXSVR\Windows\PROIECT FILME ATESTAT\NEFLI\obj\Release\net6.0-windows\NEFLI.pdb
+\\VBOXSVR\Windows\PROIECT FILME ATESTAT\NEFLI\obj\Release\net6.0-windows\NEFLI.genruntimeconfig.cache
+\\VBOXSVR\Windows\PROIECT FILME ATESTAT\NEFLI\obj\Release\net6.0-windows\ref\NEFLI.dll
+\\VBOXSVR\Windows\PROIECT FILME ATESTAT\NEFLI\obj\Release\net6.0-windows\NEFLI.Form5.resources
